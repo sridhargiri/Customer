@@ -1,0 +1,12 @@
+D:\Teradyne\Customer\DataFinding\bin\Debug\netcoreapp3.1\DataFinding.deps.json
+D:\Teradyne\Customer\DataFinding\bin\Debug\netcoreapp3.1\DataFinding.dll
+D:\Teradyne\Customer\DataFinding\bin\Debug\netcoreapp3.1\DataFinding.pdb
+D:\Teradyne\Customer\DataFinding\obj\Debug\netcoreapp3.1\DataFinding.csprojAssemblyReference.cache
+D:\Teradyne\Customer\DataFinding\obj\Debug\netcoreapp3.1\DataFinding.AssemblyInfoInputs.cache
+D:\Teradyne\Customer\DataFinding\obj\Debug\netcoreapp3.1\DataFinding.AssemblyInfo.cs
+D:\Teradyne\Customer\DataFinding\obj\Debug\netcoreapp3.1\DataFinding.dll
+D:\Teradyne\Customer\DataFinding\obj\Debug\netcoreapp3.1\DataFinding.pdb
+D:\Teradyne\Customer\DataFinding\bin\Debug\netcoreapp3.1\DataFinding.runtimeconfig.json
+D:\Teradyne\Customer\DataFinding\bin\Debug\netcoreapp3.1\DataFinding.runtimeconfig.dev.json
+D:\Teradyne\Customer\DataFinding\obj\Debug\netcoreapp3.1\DataFinding.genruntimeconfig.cache
+D:\Teradyne\Customer\DataFinding\obj\Debug\netcoreapp3.1\DataFinding.csproj.CoreCompileInputs.cache
