@@ -13,7 +13,7 @@ namespace DataFinding.Email
         {
             var fromAddress = new MailAddress("sridhargiri1@gmail.com", "From Name");
             var toAddress = new MailAddress(to, "To Name");
-            const string fromPassword = "ilikegmail";
+            const string fromPassword = "****";//put your password
             const string subject = "email alert";
 
             var smtp = new SmtpClient
